@@ -1,6 +1,6 @@
 # LINBIT Brand Assets
 
-Official logos and brand assets for [LINBIT](https://linbit.com) and its products, including [LINSTOR](https://linbit.com/linstor/) and [DRBD](https://linbit.com/drbd/).
+Official logos and brand assets for [LINBIT®](https://linbit.com) and its products, including [LINSTOR®](https://linbit.com/linstor/) and [DRBD®](https://linbit.com/drbd/).
 
 ## Download
 
@@ -12,9 +12,9 @@ A zip archive containing all assets is available at [linbit.com/assets/brand/lin
 |---|---|---|
 | LINBIT logo | color, black, white | SVG, PNG |
 | LINBIT icon | color, black, white | SVG, PNG |
-| LINBIT SDS logo | color, black, white | SVG, PNG |
-| LINBIT HA logo | color, black, white | SVG, PNG |
-| LINBIT DR logo | color, black, white | SVG, PNG |
+| LINBIT SDS® logo | color, black, white | SVG, PNG |
+| LINBIT HA® logo | color, black, white | SVG, PNG |
+| LINBIT DR® logo | color, black, white | SVG, PNG |
 | LINSTOR logo | black, white | SVG, PNG |
 | DRBD logo | black, white | SVG, PNG |
 
@@ -48,7 +48,7 @@ When using these assets, please:
 
 ## Trademark Notice
 
-LINBIT, LINSTOR, DRBD, and associated logos are trademarks of [LINBIT HA-Solutions GmbH](https://linbit.com). All rights reserved.
+LINBIT®, LINBIT SDS®, LINBIT HA®, LINBIT DR®, LINSTOR®, DRBD®, and associated logos are registered trademarks of [LINBIT HA-Solutions GmbH](https://linbit.com). All rights reserved.
 
 The assets in this repository are **not** licensed under an open-source license. They are provided for the sole purpose of accurately representing LINBIT and its products in accordance with the usage guidelines above. Any other use requires prior written permission from LINBIT.
 
