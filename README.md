@@ -1,6 +1,22 @@
 # LINBIT Brand Assets
 
-Source of truth for LINBIT brand logos and assets. Files in this repo are deployed to linbit.com/assets/brand/ and referenced by the Brand Resources page.
+Official logos and brand assets for [LINBIT](https://linbit.com) and its products, including [LINSTOR](https://linbit.com/linstor/) and [DRBD](https://linbit.com/drbd/).
+
+## Download
+
+A zip archive containing all assets is available at [linbit.com/assets/brand/linbit-brand-assets.zip](https://linbit.com/assets/brand/linbit-brand-assets.zip). Individual files can also be browsed and downloaded directly from this repository.
+
+## Available Assets
+
+| Product | Variants | Formats |
+|---|---|---|
+| LINBIT logo | color, black, white | SVG, PNG |
+| LINBIT icon | color, black, white | SVG, PNG |
+| LINBIT SDS logo | color, black, white | SVG, PNG |
+| LINBIT HA logo | color, black, white | SVG, PNG |
+| LINBIT DR logo | color, black, white | SVG, PNG |
+| LINSTOR logo | black, white | SVG, PNG |
+| DRBD logo | black, white | SVG, PNG |
 
 ## Naming Convention
 
@@ -10,86 +26,34 @@ Files follow the pattern:
 {product}-{logo|icon}-{variant}.{ext}
 ```
 
-- **product** — `linbit`, `linbit-sds`, `linbit-ha`, `linbit-dr`, `linstor`, `drbd`
-- **type** — `logo` or `icon`
-- **variant** — `color`, `black`, or `white`
-- **ext** — `svg` or `png`
+| Component | Values |
+|---|---|
+| **product** | `linbit`, `linbit-sds`, `linbit-ha`, `linbit-dr`, `linstor`, `drbd` |
+| **type** | `logo`, `icon` |
+| **variant** | `color`, `black`, `white` |
+| **ext** | `svg`, `png` |
 
-Examples:
+Examples: `linbit-logo-color.svg`, `linstor-logo-black.png`, `linbit-icon-white.svg`
 
-- `linbit-logo-color.svg`
-- `linstor-logo-black.png`
-- `linbit-icon-white.svg`
+## Usage Guidelines
 
-## File Manifest
+These assets are provided so that partners, community members, and media can accurately represent LINBIT and its products. For full usage guidelines, please visit **[linbit.com/brand](https://linbit.com/brand)**.
 
-### LINBIT Logo
+When using these assets, please:
 
-- [ ] linbit-logo-color.svg
-- [ ] linbit-logo-color.png
-- [ ] linbit-logo-black.svg
-- [ ] linbit-logo-black.png
-- [ ] linbit-logo-white.svg
-- [ ] linbit-logo-white.png
+- Use the official files from this repository without modification
+- Maintain adequate clear space around logos
+- Use the appropriate variant for your background (e.g., white logo on dark backgrounds)
+- Do not alter colors, proportions, or combine logos with other marks
 
-### LINBIT Icon
+## Trademark Notice
 
-- [ ] linbit-icon-color.svg
-- [ ] linbit-icon-color.png
-- [ ] linbit-icon-black.svg
-- [ ] linbit-icon-black.png
-- [ ] linbit-icon-white.svg
-- [ ] linbit-icon-white.png
+LINBIT, LINSTOR, DRBD, and associated logos are trademarks of [LINBIT HA-Solutions GmbH](https://linbit.com). All rights reserved.
 
-### LINBIT SDS Logo
+The assets in this repository are **not** licensed under an open-source license. They are provided for the sole purpose of accurately representing LINBIT and its products in accordance with the usage guidelines above. Any other use requires prior written permission from LINBIT.
 
-- [ ] linbit-sds-logo-color.svg
-- [ ] linbit-sds-logo-color.png
-- [ ] linbit-sds-logo-black.svg
-- [ ] linbit-sds-logo-black.png
-- [ ] linbit-sds-logo-white.svg
-- [ ] linbit-sds-logo-white.png
+For licensing inquiries, contact [office@linbit.com](mailto:office@linbit.com).
 
-### LINBIT HA Logo
+## License
 
-- [ ] linbit-ha-logo-color.svg
-- [ ] linbit-ha-logo-color.png
-- [ ] linbit-ha-logo-black.svg
-- [ ] linbit-ha-logo-black.png
-- [ ] linbit-ha-logo-white.svg
-- [ ] linbit-ha-logo-white.png
-
-### LINBIT DR Logo
-
-- [ ] linbit-dr-logo-color.svg
-- [ ] linbit-dr-logo-color.png
-- [ ] linbit-dr-logo-black.svg
-- [ ] linbit-dr-logo-black.png
-- [ ] linbit-dr-logo-white.svg
-- [ ] linbit-dr-logo-white.png
-
-### LINSTOR Logo
-
-- [ ] linstor-logo-black.svg
-- [ ] linstor-logo-black.png
-- [ ] linstor-logo-white.svg
-- [ ] linstor-logo-white.png
-
-### DRBD Logo
-
-- [ ] drbd-logo-black.svg
-- [ ] drbd-logo-black.png
-- [ ] drbd-logo-white.svg
-- [ ] drbd-logo-white.png
-
-### Archive
-
-- [ ] linbit-brand-assets.zip (all of the above)
-
-## Deployment
-
-Files are deployed via SFTP to `/assets/brand/` on the LINBIT web server. The zip file should be regenerated whenever assets are added or updated.
-
-## Notes
-
-This repo may be migrated to LINBIT's internal GitLab instance in the future.
+See [LICENSE](LICENSE).
