@@ -12,9 +12,10 @@ A zip archive containing all assets is available at [linbit.com/assets/brand/lin
 |---|---|---|
 | LINBIT logo | color, black, white | SVG, PNG |
 | LINBIT icon | color, black, white | SVG, PNG |
-| LINBIT SDS® logo | color, black, white | SVG, PNG |
-| LINBIT HA® logo | color, black, white | SVG, PNG |
-| LINBIT DR® logo | color, black, white | SVG, PNG |
+| LINBIT SDS logo | black, white | SVG, PNG |
+| LINBIT HA logo | black, white | SVG, PNG |
+| LINBIT DR logo | black, white | SVG, PNG |
+| LINBIT VSAN logo | black, white | SVG, PNG |
 | LINSTOR logo | black, white | SVG, PNG |
 | DRBD logo | black, white | SVG, PNG |
 
@@ -28,7 +29,7 @@ Files follow the pattern:
 
 | Component | Values |
 |---|---|
-| **product** | `linbit`, `linbit-sds`, `linbit-ha`, `linbit-dr`, `linstor`, `drbd` |
+| **product** | `linbit`, `linbit-sds`, `linbit-ha`, `linbit-dr`, `linbit-vsan`, `linstor`, `drbd` |
 | **type** | `logo`, `icon` |
 | **variant** | `color`, `black`, `white` |
 | **ext** | `svg`, `png` |
@@ -48,7 +49,7 @@ When using these assets, please:
 
 ## Trademark Notice
 
-LINBIT®, LINBIT SDS®, LINBIT HA®, LINBIT DR®, LINSTOR®, DRBD®, and associated logos are registered trademarks of [LINBIT HA-Solutions GmbH](https://linbit.com). All rights reserved.
+LINBIT®, LINSTOR®, DRBD®, and associated logos are registered trademarks of [LINBIT HA-Solutions GmbH](https://linbit.com). All rights reserved.
 
 The assets in this repository are **not** licensed under an open-source license. They are provided for the sole purpose of accurately representing LINBIT and its products in accordance with the usage guidelines above. Any other use requires prior written permission from LINBIT.
 
